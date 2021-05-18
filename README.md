@@ -25,3 +25,4 @@ Previously, I started working as a intern and ended up Mid-level developer at En
 * blockchain & crypto
 * compilers
 * tooling
+* different paradigms and languages
