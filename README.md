@@ -1,9 +1,9 @@
 ## :wave: HEY!
 
 
-I'm a SWE, born and living in Brazil.
+I'm a Software Engineer, born and living in Brazil.
 
-Currently, I work as a SWE at [Capitual](https://www.capitual.com/).
+Currently, I work as a Software Engineer at [Capitual](https://www.capitual.com/).
 
 Previously, worked as Integration Engineer at [Linkapi](https://en.linkapi.solutions/).
 
