@@ -3,7 +3,7 @@
 
 I'm a Software Engineer born and living in Brazil.
 
-Currently, I work as a Software Engineer at Linkapi.
+Currently, I work as a Software Engineer at Capitual.
 
 Previously, I started working as a intern and ended up Mid-level developer at Engineering do Brasil.
 
