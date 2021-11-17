@@ -3,9 +3,7 @@
 
 I'm a Software Engineer, born and living in Brazil.
 
-Currently, I work as a Software Engineer at [Capitual](https://www.capitual.com/).
-
-Previously, worked as Integration Engineer at [Linkapi](https://en.linkapi.solutions/).
+software engineer @ [capitual](https://www.capitual.com/), prev integration engineer @ [linkapi](https://en.linkapi.solutions/)
 
 ## :computer: Media
 * [linkedin](https://www.linkedin.com/in/alexandre-vardai-b8255b15b/)
