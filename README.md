@@ -3,12 +3,13 @@
 
 I'm a Software Engineer, born and living in Brazil.
 
-current software engineer [@capitual](https://www.capitual.com/), prev integration engineer [@linkapi](https://en.linkapi.solutions/)
+current software engineer [@capitual](https://www.capitual.com/)
+
+prev integration engineer [@linkapi](https://en.linkapi.solutions/)
 
 ## :computer: Media
 * [linkedin](https://www.linkedin.com/in/alexandre-vardai-b8255b15b/)
 * [twitter](https://twitter.com/1gar_o)
-* [dev.to](https://dev.to/1garo)
 
 
 ## 
