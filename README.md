@@ -1,11 +1,11 @@
-## :wave: HEY!
+## :wave: Hellow
 
 
-I'm a Software Engineer, born and living in Brazil.
+software engineer, born and living in Brazil.
 
-current software engineer [@capitual](https://www.capitual.com/)
+current software engineer at [@capitual](https://www.capitual.com/)
 
-prev integration engineer [@linkapi](https://en.linkapi.solutions/)
+previous integration engineer at [@linkapi](https://en.linkapi.solutions/)
 
 ## :computer: Media
 * [linkedin](https://www.linkedin.com/in/alexandre-vardai-b8255b15b/)
@@ -13,13 +13,9 @@ prev integration engineer [@linkapi](https://en.linkapi.solutions/)
 
 
 ## 
-<h3>Github Stats:</h3>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=1garo&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121)
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=1garo&theme=oldie&column=5&margin-w=60&margin-h=20)
 
-## 👨🏽‍💻 Interest
+## Interest
 
 * blockchain & crypto
 * compilers
