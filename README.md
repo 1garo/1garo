@@ -9,8 +9,6 @@ previous integration engineer at [@linkapi](https://en.linkapi.solutions/)
 
 ## :computer: Media
 * [linkedin](https://www.linkedin.com/in/alexandre-vardai-b8255b15b/)
-* [twitter](https://twitter.com/1gar_o)
-
 
 ## 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=1garo&theme=oldie&column=5&margin-w=60&margin-h=20)
