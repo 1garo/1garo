@@ -19,3 +19,4 @@ previous integration engineer at [@linkapi](https://en.linkapi.solutions/)
 * compilers
 * tooling
 * different paradigms and languages
+* split keyboard **(using lily58)**
