@@ -15,8 +15,7 @@ previous integration engineer at [@linkapi](https://en.linkapi.solutions/)
 
 ## Interest
 
-* blockchain & crypto
 * compilers
-* tooling
+* systems design
 * different paradigms and languages
 * split keyboard **(using lily58)**
